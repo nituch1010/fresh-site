@@ -119,6 +119,73 @@ const SITE_DATA = {
         { type: 'text', value: "The language erases our sense of emotional urgency and interprets immigration as something technical that needs to be worked through by way of policy. While BBC News isn’t using overtly nationalist language, this is an example of a kind of civic or institutional nationalism where border security is taken to be a part of government's regular and legitimate business. Here nationalism is subtly advanced but unassailable by defaulting on the premise that the management of borders is the sovereign, indubitably carried-out exercise of state authority. The Guardian has a much different focus. In covering immigration, it regularly interrogates nationalist narratives. That point is particularly evident in its Comment Is Free piece over the UK–France one in, one out approach. The article does not portray the policy as a rational, bureaucratic solution; however as a phrase, but puts it there to expose the bureaucratic logic underneath. By foregrounding the process of commodifying human lives for numerical transactions, the framing allows a reading to question the moral tenuousness of language of that sort. Crossing of Channel are depicted as less an act of crime and more that of desperation and focuses on fear, risk and injustice. With this new framework, The Guardian resists border-first nationalism by reframing immigration as an ethical and humanitarian issue rather than a national security threat. The contrasts are even sharper to look at against the Daily Mail’s more generalized stances on immigration. Since the specific article referenced here is about a political media event, the outlet’s reporting on immigration as a whole often reflects protectionist nationalist themes. Immigration narratives tend to focus on Britain and British people and construct immigration through a lens of pressure, control and the pressure on the nation. That kind of emphasis projects a nation that is both vulnerable and threatened, promoting an us versus them dynamic. And this nationalism, while less explicitly identified with BJP-style identity politics in respect of religious or cultural identity emphasises national interest and border security rather than humanitarianism. These coverage gaps are no accident. They represent each outlet’s editorial ideology, audience and journalistic priorities. BBC News in its public service role demands both balance and accuracy and thus has a low reporting surface that ensures nationalism is institutionalized. The Guardian’s leftist orientation forces it to examine nationalist assumptions while elevating ethical dilemmas. The tabloid format of The Daily Mail and its readership respond to emotionally sensitive, nationalist-vibrant, time-driven stories by invoking fear, urgency and loyalty to the country. In these acts journalism is not only a reflection of nationalism, but a fake that propagates and creates nationalism. The representations raised here pose key ethical and legal concerns. Journalists also have a moral obligation not to dehumanise minorities like asylum seekers or to perpetuate harmful representations. Sensationalist journalism that plays into fear and social division and over-agenda reporting that tends to obscure human suffering. UK journalists also should be regulated under the legal framework to do their jobs accurately and equitably when dealing with vulnerable communities. This framing is not only morally wrong, but also an ethical burden in the jurisprudence, when it overstates the threat or completely omits necessary context which can lead to misrepresentation or, worse, loss of public trust in the press. The dual aspects surrounding UK media nationalism and BJP type nationalism might be categorized and contrasted. In India this is commonly explicit and politically mobilised. However, in the UK, as in foreign countries, nationalism is quietly present, as it is in the country and also in journalism, and how it is built into everyday press messaging and news narrative. But there, too, nationalism plays out in the way it defines which interests count, where the privileged stay and how borders are perceived. Immigration is where such ideas are most forcefully articulated. In short, this contrast demonstrates that nationalism is not just some political theorizing but also a media undertaking. Their immigration coverage builds different kinds of nationalist narratives (from normalization to criticism to amplification): BBC News, then The Guardian, then the Daily Mail. This analysis suggests that nationalism here in the UK may be at its most potent when least overtly stated, when it speaks the vernacular of regular journalism rather than explicitly ideological assertion. Understanding how and why these narratives differ matters for gauging journalism’s role in shaping how citizens grasp national identity." },
       ]
     },
+    {
+      id: "Hayess",
+      title: "Hayes and Harlington",
+      date: "2025",
+      // Content Array: You can mix 'text', 'image', and 'heading' blocks
+      content: [
+        // { type: 'heading', value: "Introduction" },
+        // { type: 'text', value: "Paste the first paragraph of your PDF here. For example: The aroma of spiced tea wafts through the air as you enter Chaiiwala in Hayes..." },
+        {
+          type: 'image',
+          value: '/work/ss1.png',
+          layout: 'full'
+        },
+        {
+  type: 'image',
+  value: '/work/ss2.png',
+  layout: 'full'
+},
+{
+  type: 'image',
+  value: '/work/ss3.png',
+  layout: 'full'
+},
+{
+  type: 'image',
+  value: '/work/ss4.png',
+  layout: 'full'
+},
+{
+  type: 'image',
+  value: '/work/ss5.png',
+  layout: 'full'
+},
+{
+  type: 'image',
+  value: '/work/ss6.png',
+  layout: 'full'
+},
+{
+  type: 'image',
+  value: '/work/ss7.png',
+  layout: 'full'
+},
+{
+  type: 'image',
+  value: '/work/ss8.png',
+  layout: 'full'
+},
+{
+  type: 'image',
+  value: '/work/ss9.png',
+  layout: 'full'
+},
+{
+  type: 'image',
+  value: '/work/ss10.png',
+  layout: 'full'
+},
+{
+  type: 'image',
+  value: '/work/ss11.png',
+  layout: 'full'
+},
+
+      ]
+    },
+
   ]
 };
 
